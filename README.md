@@ -1,4 +1,6 @@
-# Aula 15 - CRUD - BACKEND - FILMES
+#Laura Raimundi Dias Jesus
+#Bianca Salvador
+Aula 15 - CRUD - BACKEND - FILMES
 
 Nessa aula criamos um sistema mínimo de backend com CRUD e uma arquitetura services/controllers
 
